@@ -1,2 +1,1 @@
-# chandan
-open source artificial intelligence
+print("hello world")
